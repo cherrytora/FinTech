@@ -3,9 +3,9 @@
 ## Introduce
 
 ### About Me
-* Name
-*
-*
+* Name: 
+* Major: 
+* School:
 
 ### Our Team
 
