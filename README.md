@@ -3,12 +3,14 @@
 ## Introduce
 
 ### About Me
---* Name
+-- Name 
+-- Major 
+-- School
 
 ### Our Team
 
 ## HomeWork
-### HomeWork 1
+### HW 1
 
 ### HomeWork 2
 
