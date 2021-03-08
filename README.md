@@ -3,13 +3,11 @@
 ## Introduce
 
 ### About Me
--- Name
--- 
 
 ### Our Team
 
 ## HomeWork
-### HW 1
+### HomeWork 1
 
 ### HomeWork 2
 
