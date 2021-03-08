@@ -1,11 +1,6 @@
-# FinTech
+# FinTech_2020
 
-## Introduce
-
-### About Me
->* Name: 
->* Major: 
->* School:
+> #### School of Bigdata Management, SCU
 
 ### Our Team
 
