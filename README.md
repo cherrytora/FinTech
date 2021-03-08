@@ -5,7 +5,7 @@
 ### Our Team
 
 ## HomeWork
-### HomeWork 1
+### [HomeWork 1](https://github.com/cherrytora/FinTech/blob/main/HW_1.md)
 
 ### HomeWork 2
 
