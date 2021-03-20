@@ -3,5 +3,5 @@
   
 實作影片
 
-[![實作影片](http://img.youtube.com/vi/umyd4TxMfMQ/1.jpg)](http://www.youtube.com/watch?v=umyd4TxMfMQ)
+[![實作影片](http://img.youtube.com/vi/umyd4TxMfMQ/0.jpg)](http://www.youtube.com/watch?v=umyd4TxMfMQ)
  
