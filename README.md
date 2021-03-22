@@ -14,6 +14,9 @@
 | 王依蓮   | 政大風管       | 
 | 徐金聖   | 政大風管       | 
 
+## 專案：國泰人壽人臉核保應用 
+
+
 ## HomeWork
 ### [HomeWork 1](https://github.com/cherrytora/FinTech/blob/main/HW_1.md) 
 > What do I think of Cloud Computing?
@@ -28,5 +31,3 @@
 ### HomeWork 5
 
 ### HomeWork 6
-
-## 專案：國泰人壽人臉核保應用 
