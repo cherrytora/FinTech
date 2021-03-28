@@ -10,6 +10,7 @@
 > 在 Amazon Linux 2 上安裝 LAMP Web 伺服器
 
 ### HomeWork 3
+> 運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能。
 
 ### HomeWork 4
 
