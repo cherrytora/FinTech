@@ -32,7 +32,7 @@
 | 王依蓮   | 政大風管       | 
 | 徐金聖   | 政大風管       | 
 
-### 第一次進度報告
-
+### 進度報告
+[![第一次進度報告](http://img.youtube.com/vi/QZrZ1keDxIA/0.jpg)](https://www.youtube.com/watch?v=QZrZ1keDxIA)
 
 
