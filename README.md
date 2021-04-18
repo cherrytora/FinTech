@@ -15,7 +15,8 @@
 ### [HomeWork 4](https://github.com/cherrytora/FinTech/blob/main/HW_4.md)
 > 運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO文件，達到鸚鵡機器人的效果  
 
-### HomeWork 5
+### HomeWork 
+> Create a Database using Amazon RDS 
 
 ### HomeWork 6
 
