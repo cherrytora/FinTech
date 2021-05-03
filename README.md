@@ -34,8 +34,8 @@
 | 徐金聖   | 政大風管       | 
 
 ### 進度報告
-* 第一次進度報告  2021/04/12  
+* 第一次進度報告  2021/04/12  [PPT](https://github.com/cherrytora/FinTech/blob/main/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A_20200426.pdf)  
 [![第一次進度報告](http://img.youtube.com/vi/QZrZ1keDxIA/0.jpg)](https://www.youtube.com/watch?v=QZrZ1keDxIA)  
-[PPT](https://github.com/cherrytora/FinTech/blob/main/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A_20200426.pdf)
+
 
 
