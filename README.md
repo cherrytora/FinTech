@@ -18,7 +18,7 @@
 ### [HomeWork 5](https://github.com/cherrytora/FinTech/blob/main/HW_5.md)
 > Create a Database using Amazon RDS 
 
-### [HomeWork 6](https://github.com/cherrytora/FinTech/blob/main/HW_6.md)
+### [HomeWork 6]()
 > Telegram Chatbot keyboard 和 inline_keyboard
 
 ## 專案：國泰人壽人臉核保應用 
