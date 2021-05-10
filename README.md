@@ -39,6 +39,7 @@
 [![第一次進度報告](http://img.youtube.com/vi/QZrZ1keDxIA/0.jpg)](https://www.youtube.com/watch?v=QZrZ1keDxIA)  
   
 * 第二次進度報告 2021/05/09 [Slides](https://github.com/cherrytora/FinTech/blob/main/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A_20200509.pdf)  
+* chatbot demo  
 [![chatbot demo](http://img.youtube.com/vi/LByu7WUMmww/0.jpg)](https://www.youtube.com/watch?v=LByu7WUMmww)
 
 
