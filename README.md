@@ -1,6 +1,7 @@
 # FinTech_2020
 
 > #### School of Bigdata Management, SCU
+> ### 期末專案優勝
 
 ## HomeWork
 ### [HomeWork 1](https://github.com/cherrytora/FinTech/blob/main/HW_1.md) 
@@ -44,4 +45,7 @@
 * 第三次進度報告 2021/05/29[slides](https://github.com/cherrytora/FinTech/blob/main/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A_20210529.pdf)  
 [![第三次進度報告](http://img.youtube.com/vi/gy1oJxsr8No/0.jpg)](https://www.youtube.com/watch?v=gy1oJxsr8No) 
 
-
+### 期末成果
+* 期末成果 影片介紹  
+[![期末成果 影片介紹](http://img.youtube.com/vi/w_4QGtyS2Ss/0.jpg)](https://www.youtube.com/watch?v=w_4QGtyS2Ss)
+* [期末成果發表流程](https://docs.google.com/document/d/15XOQoKAFkEKQhACqx1x2Z6fc2YCi81D6UPapEWDRqKk/edit)
