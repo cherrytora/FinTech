@@ -47,5 +47,5 @@
 
 ### 期末成果
 * 期末成果 影片介紹  
-[![期末成果 影片介紹](http://img.youtube.com/vi/w_4QGtyS2Ss/0.jpg)](https://www.youtube.com/watch?v=w_4QGtyS2Ss)
+[![期末成果 影片介紹](http://img.youtube.com/vi/82Ri2MYsSx0/0.jpg)](https://www.youtube.com/watch?v=82Ri2MYsSx0)
 * [期末成果發表流程](https://docs.google.com/document/d/15XOQoKAFkEKQhACqx1x2Z6fc2YCi81D6UPapEWDRqKk/edit)
